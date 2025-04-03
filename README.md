@@ -82,16 +82,7 @@ The model receives rich, contextual input like:
 
 ---
 
-## 📦 Project Structure
 
-```
-├── SalesGPT_Capstone.ipynb
-├── data/
-│   └── product_docs.txt
-├── vectorstore/
-│   └── chromadb_index/
-└── README.md
-```
 
 ---
 
@@ -104,12 +95,6 @@ The model receives rich, contextual input like:
 
 ---
 
-## 👤 Author
-
-**Yash Vinaychandra Rana**  
-Graduate Student, Concordia University  
-📧 yashrana240203@gmail.com  
-📞 +1-438-836-5297
 
 ---
 
